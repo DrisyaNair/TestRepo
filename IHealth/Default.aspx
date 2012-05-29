@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-                <p>This is to test whether update is working</p>
+                <p>This is to test whether </p>
     </div>
     </form>
 </body>
