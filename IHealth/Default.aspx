@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-                <p>This is to test whether merge is working </p>
+                <p>This is to test whether merge is working in two projects</p>
+                <p>This is to test whether commit is working </p>
     </div>
     </form>
 </body>
