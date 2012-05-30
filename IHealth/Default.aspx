@@ -10,8 +10,11 @@
     <form id="form1" runat="server">
     <div>
 
-                <p>This is to test whether merge is working in two projects</p>
-                <p>This is to test whether commit is working </p>
+                <p>     This is to test whether merge is working in two projects    </p>
+                <p>     This is to test whether commit is working                   </p>
+                <p>     This is to test whether new git extension is working        </p>
+                <p>     This is to test whether new git extension is not working    </p>
+                <p>     This is to test whether new git extension sdfsfsdfdsf       </p>
 
     </div>
     </form>
