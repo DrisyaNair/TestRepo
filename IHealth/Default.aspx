@@ -9,8 +9,11 @@
 <body>
     <form id="form1" runat="server">
  <div>
- <p> new changes for merge</p>
- 
+ <p> resolving conflict1 </p>
+ <p> resolving conflict2 </p>
+ <p> resolving conflict3 </p>
+ <p> resolving conflict4 </p>
+ <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
  </div>
   
     </form>

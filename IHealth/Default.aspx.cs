@@ -17,7 +17,11 @@ namespace IHealth
 
         private void change()
         {
-            // my new change
+            String a = "hi";
+            String b = "all";
+            String c = a + b;
+            Label1.Text = c;
+            
         }
     }
 }
