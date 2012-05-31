@@ -13,6 +13,8 @@
  <p> resolving conflict2 </p>
  <p> resolving conflict3 </p>
  <p> resolving conflict4 </p>
+ </div>
+ <div>
  <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
  </div>
   
