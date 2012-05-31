@@ -11,8 +11,7 @@ namespace IHealth
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-          // jnininiuo
-            //kokj
+        
         }
 
         private void change()
