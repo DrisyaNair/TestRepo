@@ -12,11 +12,15 @@ namespace IHealth
         protected void Page_Load(object sender, EventArgs e)
         {
             //to check whether update is working-------drisya
+<<<<<<< .mine
             //to check whether commit is working
             //tyty
+            //adfd
             //joji
             //drisy
+=======
 
+>>>>>>> .r14
         }
     }
 }
