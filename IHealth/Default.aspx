@@ -13,7 +13,7 @@
                 <p>     This is to test whether commit is working                   </p>
                 <p>     This is to test whether new git extension is working        </p>
                 <p>     This is to test whether new git extension is not working    </p>
-              
+            
     </div>
     <div>
                 <p>To make conflict</p>
